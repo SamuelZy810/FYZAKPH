@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Uloha5.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Uloha5.dir/objects.a @CMakeFiles\Uloha5.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Uloha5.dir/objects.a -Wl,--no-whole-archive -o Uloha5.exe -Wl,--out-implib,libUloha5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Uloha5.dir\linklibs.rsp

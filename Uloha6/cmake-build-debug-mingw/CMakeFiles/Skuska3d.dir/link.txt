@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Skuska3d.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\Skuska3d.dir/objects.a @CMakeFiles\Skuska3d.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Skuska3d.dir/objects.a -Wl,--no-whole-archive -o Skuska3d.exe -Wl,--out-implib,libSkuska3d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Skuska3d.dir\linkLibs.rsp

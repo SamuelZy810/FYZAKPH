@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/samue/Documents/Vysoka_Skola/Semester_#4/FYZAKPH/Uloha8/main.c
+stdio.h
+-
+unistd.h
+-
+stdbool.h
+-
+math.h
+-
+

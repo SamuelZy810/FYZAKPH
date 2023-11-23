@@ -1,0 +1,3 @@
+C:/Users/samue/Documents/Vysoka_Skola/Semester_#4/FYZAKPH/Uloha4/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+C:/Users/samue/Documents/Vysoka_Skola/Semester_#4/FYZAKPH/Uloha4/cmake-build-debug-mingw/CMakeFiles/Uloha_4.dir
+C:/Users/samue/Documents/Vysoka_Skola/Semester_#4/FYZAKPH/Uloha4/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
